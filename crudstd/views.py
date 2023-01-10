@@ -47,3 +47,4 @@ def do_update_std(request,roll):
     std.phone=std_phone
     std.save()
     return redirect('home')
+    #changing in my final project
